@@ -8,8 +8,8 @@ export const obtenerPokemon=async pokemon=>{
             mostrarAlerta('No registrado en la pokedex');
             return;
         }
-        const buscado=await respuesta.json();
-        return buscado;
+        const buscando=await respuesta.json();
+        return buscando;
     } catch (error) {
         mostrarAlerta(error)
     }
