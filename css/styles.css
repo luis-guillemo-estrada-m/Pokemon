@@ -1,0 +1,45 @@
+/* navbar */
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@700&family=Press+Start+2P&family=Roboto:ital,wght@1,900&display=swap');
+
+
+
+
+body {
+    background-color: #34495E;
+    color: #E5E7E9;
+    margin: 0;
+    font-family: 'sigmar one', cursive;
+    
+}
+
+
+
+
+.d-block{
+    
+    background-color: black;
+    opacity: 0.4;
+    
+}
+
+h1{
+    text-align: center;
+    align-items: center;
+    color:white;
+    padding-bottom: 170px;
+}
+
+p{
+    color:white;
+    padding-bottom: 165px;
+    font-size: 40px;
+}
+
+
+/* footer */
+.logo{
+    display: block; 
+    margin-left: auto;
+     margin-right: auto;
+
+}
