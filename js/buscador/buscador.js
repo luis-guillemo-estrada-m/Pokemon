@@ -36,7 +36,7 @@
 // }
 
 import {$,mostrarAlerta,mostraInfo} from "./funciones.js"
-import { obtenerPokemon } from "./API.js";
+import { obtenerPokemon } from "./api.js";
 
 (function(){
     const formulario=$('#formulario');
